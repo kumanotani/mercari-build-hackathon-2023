@@ -7,7 +7,7 @@ Install packages.
 $ npm i
 ```
 
-Launch app.
+Launch app.!
 
 ```sh
 npm start
